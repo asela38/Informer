@@ -1,6 +1,6 @@
-package com.tradecard.informer;
+package com.asela.informer;
 
-import com.tradecard.informer.base.BoundedCounterInterface;
+import com.asela.informer.base.BoundedCounterInterface;
 
 /**
  * BounderCounter is a Counter which continues it's counting between the

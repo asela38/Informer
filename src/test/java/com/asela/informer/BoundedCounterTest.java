@@ -1,4 +1,4 @@
-package com.tradecard.informer;
+package com.asela.informer;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationHandler;
@@ -8,7 +8,7 @@ import java.lang.reflect.Proxy;
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.tradecard.informer.BoundedCounter;
+import com.asela.informer.BoundedCounter;
 
 public class BoundedCounterTest {
 

@@ -1,6 +1,6 @@
-package com.tradecard.informer;
+package com.asela.informer;
 
-import com.tradecard.informer.base.StringCondition;
+import com.asela.informer.base.StringCondition;
 
 public class StringConditions {
 

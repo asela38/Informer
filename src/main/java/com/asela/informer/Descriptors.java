@@ -1,6 +1,6 @@
-package com.tradecard.informer;
+package com.asela.informer;
 
-import com.tradecard.informer.base.Descriptor;
+import com.asela.informer.base.Descriptor;
 
 public class Descriptors {
 

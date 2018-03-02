@@ -1,6 +1,6 @@
-package com.tradecard.informer.base;
+package com.asela.informer.base;
 
-import com.tradecard.informer.BoundedCounter;
+import com.asela.informer.BoundedCounter;
 
 public interface BoundedCounterInterface {
 

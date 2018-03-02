@@ -1,0 +1,5 @@
+Note:
+Done 6 years back,
+
+When working with slow system (e.g. Remote Desktop) to debug an application may need to do drastic things
+This is one such attempt. This jar will help to print out POJOS in system.out 

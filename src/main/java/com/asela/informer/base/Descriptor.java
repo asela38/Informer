@@ -1,4 +1,4 @@
-package com.tradecard.informer.base;
+package com.asela.informer.base;
 
 public interface Descriptor<T> {
 
